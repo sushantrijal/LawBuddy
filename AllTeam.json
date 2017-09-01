@@ -1,0 +1,43 @@
+{
+   "team": [
+	
+      {
+         "id":"01",
+         "teamname": "RKB Brothers",
+         "totalteam": "10" 
+      },
+ {
+         "id":"02",
+         "teamname": "CST",
+         "totalteam": "4" 
+      },
+ {
+         "id":"03",
+         "teamname": "Friends",
+         "totalteam": "7" 
+      },
+ {
+         "id":"04",
+         "teamname": "Lawyer",
+         "totalteam": "15" 
+      },
+ {
+         "id":"05",
+         "teamname": "Family Cases",
+         "totalteam": "18" 
+      },
+ 
+ {
+         "id":"06",
+         "teamname": "Personal Cases",
+         "totalteam": "10" 
+      },
+ 
+ {
+         "id":"07",
+         "teamname": "Criminal Cases",
+         "totalteam": "10" 
+      }
+	
+   ]
+}

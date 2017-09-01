@@ -1,0 +1,60 @@
+{
+   "clientmeeting": [
+	
+      {
+         "id":"01",
+         "clientname": "Sharma ji ",
+         "clientcontactnumber": "7398310313",
+         "clientemail": "anandgaur2@gmail.com",
+         "casetitle":"Sharma ji Property Case",
+         "datetime": "12/8/2017 3.00 am"
+        
+      },
+
+       {
+         "id":"02",
+         "clientname": "Babulal",
+         "clientcontactnumber": "7398310313",
+         "clientemail": "babulalgaur2@gmail.com",
+         "casetitle":"babulalgaur Property Case",
+         "datetime": "12/8/2017 3.00 am"
+        
+      },
+ {
+         "id":"03",
+         "clientname": "Gupta ji ",
+         "clientcontactnumber": "7398310313",
+         "clientemail": "sandeepgaur2@gmail.com",
+         "casetitle":"sandeep murder Case",
+         "datetime": "12/8/2017 3.00 am"
+        
+      },
+ {
+         "id":"04",
+         "clientname": "Shailendra Kharwar ",
+         "clientcontactnumber": "7398310313",
+         "clientemail": "shaildra@gmail.com",
+         "casetitle":"Shailendra Wife Case",
+         "datetime": "12/8/2017 3.00 am"
+        
+      },
+ {
+         "id":"05",
+         "clientname": "Sharma ji ",
+         "clientcontactnumber": "7398310313",
+         "clientemail": "anandgaur2@gmail.com",
+         "casetitle":"Sharma ji Property Case",
+         "datetime": "12/8/2017 3.00 am"
+        
+      },
+ {
+         "id":"06",
+         "clientname": "Sharma ji ",
+         "clientcontactnumber": "7398310313",
+         "clientemail": "anandgaur2@gmail.com",
+         "casetitle":"Sharma ji Property Case",
+         "datetime": "12/8/2017 3.00 am"
+        
+      }
+   ]
+}
