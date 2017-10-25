@@ -1,0 +1,284 @@
+{
+    "hearing":  [
+      {
+         "details":   { " teamid":  "01" ,
+                       "caseid":  "01",
+                       "emailid": "kavitbansal11@gmail.com",
+                       "hearingid" : "01",
+                       "casenextdate" : "23-01-2016",
+                       "caseprevdate" : "19-12-2015",
+                      "positionstage" : "pending",
+                       "status" : "status whtever to be send to client",
+                       "courtid" :"01",   
+                       "courtname" : "kanchanpura",
+                       "court number" : "12/a",
+                       "hall no": "2"
+                       },
+              
+
+                "judge" :
+                     {  
+                        "details": [
+                                       {     "judgeid" : "01",
+                                          "judgename" : "diya"
+                                       }
+                                 ]
+                      },
+                "notes" :
+                     {  
+                        "details": [
+                                       {    "notesid" : "01",
+                                             "notes" : "my notes",
+                                             "datetime": "22-12-2015, 12:10:10"
+                                           
+                                        }
+                                 ]                    
+                      }
+      },
+{
+         "details":   { " teamid":  "02" ,
+                       "caseid":  "02",
+                       "emailid": "kavitbansal11@gmail.com",
+                       "hearingid" : "02",
+                       "casenextdate" : "23-01-2016",
+                       "caseprevdate" : "19-12-2015",
+                      "positionstage" : "pending",
+                       "status" : "status whtever to be send to client",
+                       "courtid" :"02",   
+                       "courtname" : "kanchanpura",
+                       "court number" : "12/a",
+                       "hall no": "2"
+                       },
+              
+
+                "judge" :
+                     {  
+                        "details": [
+                                       {     "judgeid" : "02",
+                                          "judgename" : "diya"
+                                       }
+                                 ]
+                      },
+                "notes" :
+                     {  
+                        "details": [
+                                       {    "notesid" : "02",
+                                             "notes" : "my notes",
+                                             "datetime": "22-12-2015, 12:10:10"
+                                           
+                                        }
+                                 ]                    
+                      }
+      },
+{
+         "details":   { " teamid":  "03" ,
+                       "caseid":  "03",
+                       "emailid": "kavitbansal11@gmail.com",
+                       "hearingid" : "03",
+                       "casenextdate" : "23-01-2016",
+                       "caseprevdate" : "19-12-2015",
+                      "positionstage" : "pending",
+                       "status" : "status whtever to be send to client",
+                       "courtid" :"03",   
+                       "courtname" : "kanchanpura",
+                       "court number" : "12/a",
+                       "hall no": "2"
+                       },
+              
+
+                "judge" :
+                     {  
+                        "details": [
+                                       {     "judgeid" : "03",
+                                          "judgename" : "diya"
+                                       }
+                                 ]
+                      },
+                "notes" :
+                     {  
+                        "details": [
+                                       {    "notesid" : "03",
+                                             "notes" : "my notes",
+                                             "datetime": "22-12-2015, 12:10:10"
+                                           
+                                        }
+                                 ]                    
+                      }
+      },
+{
+         "details":   { " teamid":  "04" ,
+                       "caseid":  "04",
+                       "emailid": "kavitbansal11@gmail.com",
+                       "hearingid" : "04",
+                       "casenextdate" : "23-01-2016",
+                       "caseprevdate" : "19-12-2015",
+                      "positionstage" : "pending",
+                       "status" : "status whtever to be send to client",
+                       "courtid" :"04",   
+                       "courtname" : "kanchanpura",
+                       "court number" : "12/a",
+                       "hall no": "2"
+                       },
+              
+
+                "judge" :
+                     {  
+                        "details": [
+                                       {     "judgeid" : "04",
+                                          "judgename" : "diya"
+                                       }
+                                 ]
+                      },
+                "notes" :
+                     {  
+                        "details": [
+                                       {    "notesid" : "04",
+                                             "notes" : "my notes",
+                                             "datetime": "22-12-2015, 12:10:10"
+                                           
+                                        }
+                                 ]                    
+                      }
+      },
+{
+         "details":   { " teamid":  "05" ,
+                       "caseid":  "05",
+                       "emailid": "kavitbansal11@gmail.com",
+                       "hearingid" : "05",
+                       "casenextdate" : "23-01-2016",
+                       "caseprevdate" : "19-12-2015",
+                      "positionstage" : "pending",
+                       "status" : "status whtever to be send to client",
+                       "courtid" :"05",   
+                       "courtname" : "kanchanpura",
+                       "court number" : "12/a",
+                       "hall no": "2"
+                       },
+              
+
+                "judge" :
+                     {  
+                        "details": [
+                                       {     "judgeid" : "05",
+                                          "judgename" : "diya"
+                                       }
+                                 ]
+                      },
+                "notes" :
+                     {  
+                        "details": [
+                                       {    "notesid" : "05",
+                                             "notes" : "my notes",
+                                             "datetime": "22-12-2015, 12:10:10"
+                                           
+                                        }
+                                 ]                    
+                      }
+      },
+{
+         "details":   { " teamid":  "06" ,
+                       "caseid":  "06",
+                       "emailid": "kavitbansal11@gmail.com",
+                       "hearingid" : "06",
+                       "casenextdate" : "23-01-2016",
+                       "caseprevdate" : "19-12-2015",
+                      "positionstage" : "pending",
+                       "status" : "status whtever to be send to client",
+                       "courtid" :"06",   
+                       "courtname" : "kanchanpura",
+                       "court number" : "12/a",
+                       "hall no": "2"
+                       },
+              
+
+                "judge" :
+                     {  
+                        "details": [
+                                       {     "judgeid" : "06",
+                                          "judgename" : "diya"
+                                       }
+                                 ]
+                      },
+                "notes" :
+                     {  
+                        "details": [
+                                       {    "notesid" : "06",
+                                             "notes" : "my notes",
+                                             "datetime": "22-12-2015, 12:10:10"
+                                           
+                                        }
+                                 ]                    
+                      }
+      },
+{
+         "details":   { " teamid":  "07" ,
+                       "caseid":  "07",
+                       "emailid": "kavitbansal11@gmail.com",
+                       "hearingid" : "07",
+                       "casenextdate" : "23-01-2016",
+                       "caseprevdate" : "19-12-2015",
+                      "positionstage" : "pending",
+                       "status" : "status whtever to be send to client",
+                       "courtid" :"07",   
+                       "courtname" : "kanchanpura",
+                       "court number" : "12/a",
+                       "hall no": "2"
+                       },
+              
+
+                "judge" :
+                     {  
+                        "details": [
+                                       {     "judgeid" : "07",
+                                          "judgename" : "diya"
+                                       }
+                                 ]
+                      },
+                "notes" :
+                     {  
+                        "details": [
+                                       {    "notesid" : "07",
+                                             "notes" : "my notes",
+                                             "datetime": "22-12-2015, 12:10:10"
+                                           
+                                        }
+                                 ]                    
+                      }
+      },
+{
+         "details":   { " teamid":  "08" ,
+                       "caseid":  "08",
+                       "emailid": "kavitbansal11@gmail.com",
+                       "hearingid" : "08",
+                       "casenextdate" : "23-01-2016",
+                       "caseprevdate" : "19-12-2015",
+                      "positionstage" : "pending",
+                       "status" : "status whtever to be send to client",
+                       "courtid" :"08",   
+                       "courtname" : "kanchanpura",
+                       "court number" : "12/a",
+                       "hall no": "2"
+                       },
+              
+
+                "judge" :
+                     {  
+                        "details": [
+                                       {     "judgeid" : "08",
+                                          "judgename" : "diya"
+                                       }
+                                 ]
+                      },
+                "notes" :
+                     {  
+                        "details": [
+                                       {    "notesid" : "08",
+                                             "notes" : "my notes",
+                                             "datetime": "22-12-2015, 12:10:10"
+                                           
+                                        }
+                                 ]                    
+                      }
+      }
+         ]
+ }

@@ -1,0 +1,18 @@
+{
+   "user":      {
+                 "userid": "01",
+                 "contactno": "9041570767",
+                 "dob": "11-01-1997",
+                 "qualification": "btech",
+                 "experience": "6 months",
+                 "numberofcases": "3",
+                  "about": "blah blah blah",
+                 "casetypes": {
+                               "casetype1": "criminal",
+                               "casetype2": "tax",
+                               "casetype3": "free"
+                               }
+                
+               
+                }
+}

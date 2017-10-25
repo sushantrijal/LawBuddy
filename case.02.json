@@ -1,0 +1,614 @@
+{
+    "case":  [
+      {
+            "details": {  "teamid ":  "01" ,
+                        "caseid" : "01",
+                        "casenumber": "192" ,
+                        "casttitle" : "sharma’s property case" ,
+                        "cnrnumber" : "MHAU030151912016",
+                        "cisnumber" : "",
+                        "caseregistrationdate" : "23-8-2016",
+                        "casetype" : "criminal",
+                        "filedundersection" : "323,324,149,504,503",
+                        "casesummary" : "blah blah blah" ,
+                        "casedetails" : "sharma’s property case against bansals"
+                    },
+                    
+                "client" :
+                     {  
+                        "details": [
+                         {   "clientid" : "01",
+                             "clientname" : "rohan sharma",
+                            "clientemail" : "rohansharma09@gmail.com",
+                            "clientcontactnumber " : "9012345678",
+                            " clientaddress " : "delhi",
+                            " clientmobilenumber " : "9012345678"
+                                        }
+                                    ]
+                       },                        
+                       
+                "party" :
+                     {  
+                        "details": [
+                           {   " partyid" : "01",
+                               " partyname " : "sharma",
+                               "opp_partyname " : "bansal"
+                                       }
+                                 ]
+                       } ,
+               "advocate" :
+                     {  
+                        "details": [
+                                       {    
+                                 "advname": "kavit",
+                                 "advemail" : "kavitbansal11@gmail.com"
+                                            
+                                        }
+                                    ]
+                     },
+                "opp_advocate" :
+                     {  
+                        "details": [
+                          {     
+                            "opp_advid" : "01",
+                             "opp_advname" : "jatin",
+                             "opp_advemail " : "jatin@gmail.com",
+                           "opp_advcontactnumber" : "9012345678",
+                           "opp_advaddress" : "suratgrah",
+                           "opp_advmobilenumber" : "9012345678"
+                                        }
+                                    ]
+                      }
+      },
+
+  {
+            "details": {  "teamid ":  "02" ,
+                        "caseid" : "02",
+                        "casenumber": "193" ,
+                        "casttitle" : "sharma’s property case" ,
+                        "cnrnumber" : "MHAU030151912016",
+                        "cisnumber" : "",
+                        "caseregistrationdate" : "23-8-2016",
+                        "casetype" : "criminal",
+                        "filedundersection" : "323,324,149,504,503",
+                        "casesummary" : "blah blah blah" ,
+                        "casedetails" : "sharma’s property case against bansals"
+                    },
+                    
+                "client" :
+                     {  
+                        "details": [
+                         {   "clientid" : "02",
+                             "clientname" : "rohan sharma",
+                            "clientemail" : "rohansharma09@gmail.com",
+                            "clientcontactnumber " : "9012345678",
+                            " clientaddress " : "delhi",
+                            " clientmobilenumber " : "9012345678"
+                                        }
+                                    ]
+                       },                        
+                       
+                "party" :
+                     {  
+                        "details": [
+                           {   " partyid" : "02",
+                               " partyname " : "sharma",
+                               "opp_partyname " : "bansal"
+                                       }
+                                 ]
+                       } ,
+               "advocate" :
+                     {  
+                        "details": [
+                                       {    
+                                 "advname": "kavit",
+                                 "advemail" : "kavitbansal11@gmail.com"
+                                            
+                                        }
+                                    ]
+                     },
+                "opp_advocate" :
+                     {  
+                        "details": [
+                          {     
+                            "opp_advid" : "02",
+                             "opp_advname" : "jatin",
+                             "opp_advemail " : "jatin@gmail.com",
+                           "opp_advcontactnumber" : "9012345678",
+                           "opp_advaddress" : "suratgrah",
+                           "opp_advmobilenumber" : "9012345678"
+                                        }
+                                    ]
+                      }
+      },
+
+  {
+            "details": {  "teamid ":  "03" ,
+                        "caseid" : "03",
+                        "casenumber": "194" ,
+                        "casttitle" : "sharma’s property case" ,
+                        "cnrnumber" : "MHAU030151912016",
+                        "cisnumber" : "",
+                        "caseregistrationdate" : "23-8-2016",
+                        "casetype" : "criminal",
+                        "filedundersection" : "323,324,149,504,503",
+                        "casesummary" : "blah blah blah" ,
+                        "casedetails" : "sharma’s property case against bansals"
+                    },
+                    
+                "client" :
+                     {  
+                        "details": [
+                         {   "clientid" : "03",
+                             "clientname" : "rohan sharma",
+                            "clientemail" : "rohansharma09@gmail.com",
+                            "clientcontactnumber " : "9012345678",
+                            " clientaddress " : "delhi",
+                            " clientmobilenumber " : "9012345678"
+                                        }
+                                    ]
+                       },                        
+                       
+                "party" :
+                     {  
+                        "details": [
+                           {   " partyid" : "03",
+                               " partyname " : "sharma",
+                               "opp_partyname " : "bansal"
+                                       }
+                                 ]
+                       } ,
+               "advocate" :
+                     {  
+                        "details": [
+                                       {    
+                                 "advname": "kavit",
+                                 "advemail" : "kavitbansal11@gmail.com"
+                                            
+                                        }
+                                    ]
+                     },
+                "opp_advocate" :
+                     {  
+                        "details": [
+                          {     
+                            "opp_advid" : "03",
+                             "opp_advname" : "jatin",
+                             "opp_advemail " : "jatin@gmail.com",
+                           "opp_advcontactnumber" : "9012345678",
+                           "opp_advaddress" : "suratgrah",
+                           "opp_advmobilenumber" : "9012345678"
+                                        }
+                                    ]
+                      }
+      },
+
+  {
+            "details": {  "teamid ":  "04" ,
+                        "caseid" : "04",
+                        "casenumber": "192" ,
+                        "casttitle" : "sharma’s property case" ,
+                        "cnrnumber" : "MHAU030151912016",
+                        "cisnumber" : "",
+                        "caseregistrationdate" : "23-8-2016",
+                        "casetype" : "criminal",
+                        "filedundersection" : "323,324,149,504,503",
+                        "casesummary" : "blah blah blah" ,
+                        "casedetails" : "sharma’s property case against bansals"
+                    },
+                    
+                "client" :
+                     {  
+                        "details": [
+                         {   "clientid" : "04",
+                             "clientname" : "rohan sharma",
+                            "clientemail" : "rohansharma09@gmail.com",
+                            "clientcontactnumber " : "9012345678",
+                            " clientaddress " : "delhi",
+                            " clientmobilenumber " : "9012345678"
+                                        }
+                                    ]
+                       },                        
+                       
+                "party" :
+                     {  
+                        "details": [
+                           {   " partyid" : "04",
+                               " partyname " : "sharma",
+                               "opp_partyname " : "bansal"
+                                       }
+                                 ]
+                       } ,
+               "advocate" :
+                     {  
+                        "details": [
+                                       {    
+                                 "advname": "kavit",
+                                 "advemail" : "kavitbansal11@gmail.com"
+                                            
+                                        }
+                                    ]
+                     },
+                "opp_advocate" :
+                     {  
+                        "details": [
+                          {     
+                            "opp_advid" : "04",
+                             "opp_advname" : "jatin",
+                             "opp_advemail " : "jatin@gmail.com",
+                           "opp_advcontactnumber" : "9012345678",
+                           "opp_advaddress" : "suratgrah",
+                           "opp_advmobilenumber" : "9012345678"
+                                        }
+                                    ]
+                      }
+      },
+
+  {
+            "details": {  "teamid ":  "05" ,
+                        "caseid" : "05",
+                        "casenumber": "192" ,
+                        "casttitle" : "sharma’s property case" ,
+                        "cnrnumber" : "MHAU030151912016",
+                        "cisnumber" : "",
+                        "caseregistrationdate" : "23-8-2016",
+                        "casetype" : "criminal",
+                        "filedundersection" : "323,324,149,504,503",
+                        "casesummary" : "blah blah blah" ,
+                        "casedetails" : "sharma’s property case against bansals"
+                    },
+                    
+                "client" :
+                     {  
+                        "details": [
+                         {   "clientid" : "05",
+                             "clientname" : "rohan sharma",
+                            "clientemail" : "rohansharma09@gmail.com",
+                            "clientcontactnumber " : "9012345678",
+                            " clientaddress " : "delhi",
+                            " clientmobilenumber " : "9012345678"
+                                        }
+                                    ]
+                       },                        
+                       
+                "party" :
+                     {  
+                        "details": [
+                           {   " partyid" : "05",
+                               " partyname " : "sharma",
+                               "opp_partyname " : "bansal"
+                                       }
+                                 ]
+                       } ,
+               "advocate" :
+                     {  
+                        "details": [
+                                       {    
+                                 "advname": "kavit",
+                                 "advemail" : "kavitbansal11@gmail.com"
+                                            
+                                        }
+                                    ]
+                     },
+                "opp_advocate" :
+                     {  
+                        "details": [
+                          {     
+                            "opp_advid" : "05",
+                             "opp_advname" : "jatin",
+                             "opp_advemail " : "jatin@gmail.com",
+                           "opp_advcontactnumber" : "9012345678",
+                           "opp_advaddress" : "suratgrah",
+                           "opp_advmobilenumber" : "9012345678"
+                                        }
+                                    ]
+                      }
+      },
+
+  {
+            "details": {  "teamid ":  "06" ,
+                        "caseid" : "06",
+                        "casenumber": "192" ,
+                        "casttitle" : "sharma’s property case" ,
+                        "cnrnumber" : "MHAU030151912016",
+                        "cisnumber" : "",
+                        "caseregistrationdate" : "23-8-2016",
+                        "casetype" : "criminal",
+                        "filedundersection" : "323,324,149,504,503",
+                        "casesummary" : "blah blah blah" ,
+                        "casedetails" : "sharma’s property case against bansals"
+                    },
+                    
+                "client" :
+                     {  
+                        "details": [
+                         {   "clientid" : "06",
+                             "clientname" : "rohan sharma",
+                            "clientemail" : "rohansharma09@gmail.com",
+                            "clientcontactnumber " : "9012345678",
+                            " clientaddress " : "delhi",
+                            " clientmobilenumber " : "9012345678"
+                                        }
+                                    ]
+                       },                        
+                       
+                "party" :
+                     {  
+                        "details": [
+                           {   " partyid" : "06",
+                               " partyname " : "sharma",
+                               "opp_partyname " : "bansal"
+                                       }
+                                 ]
+                       } ,
+               "advocate" :
+                     {  
+                        "details": [
+                                       {    
+                                 "advname": "kavit",
+                                 "advemail" : "kavitbansal11@gmail.com"
+                                            
+                                        }
+                                    ]
+                     },
+                "opp_advocate" :
+                     {  
+                        "details": [
+                          {     
+                            "opp_advid" : "06",
+                             "opp_advname" : "jatin",
+                             "opp_advemail " : "jatin@gmail.com",
+                           "opp_advcontactnumber" : "9012345678",
+                           "opp_advaddress" : "suratgrah",
+                           "opp_advmobilenumber" : "9012345678"
+                                        }
+                                    ]
+                      }
+      },
+
+  {
+            "details": {  "teamid ":  "07" ,
+                        "caseid" : "07",
+                        "casenumber": "192" ,
+                        "casttitle" : "sharma’s property case" ,
+                        "cnrnumber" : "MHAU030151912016",
+                        "cisnumber" : "",
+                        "caseregistrationdate" : "23-8-2016",
+                        "casetype" : "criminal",
+                        "filedundersection" : "323,324,149,504,503",
+                        "casesummary" : "blah blah blah" ,
+                        "casedetails" : "sharma’s property case against bansals"
+                    },
+                    
+                "client" :
+                     {  
+                        "details": [
+                         {   "clientid" : "07",
+                             "clientname" : "rohan sharma",
+                            "clientemail" : "rohansharma09@gmail.com",
+                            "clientcontactnumber " : "9012345678",
+                            " clientaddress " : "delhi",
+                            " clientmobilenumber " : "9012345678"
+                                        }
+                                    ]
+                       },                        
+                       
+                "party" :
+                     {  
+                        "details": [
+                           {   " partyid" : "07",
+                               " partyname " : "sharma",
+                               "opp_partyname " : "bansal"
+                                       }
+                                 ]
+                       } ,
+               "advocate" :
+                     {  
+                        "details": [
+                                       {    
+                                 "advname": "kavit",
+                                 "advemail" : "kavitbansal11@gmail.com"
+                                            
+                                        }
+                                    ]
+                     },
+                "opp_advocate" :
+                     {  
+                        "details": [
+                          {     
+                            "opp_advid" : "07",
+                             "opp_advname" : "jatin",
+                             "opp_advemail " : "jatin@gmail.com",
+                           "opp_advcontactnumber" : "9012345678",
+                           "opp_advaddress" : "suratgrah",
+                           "opp_advmobilenumber" : "9012345678"
+                                        }
+                                    ]
+                      }
+      },
+
+  {
+            "details": {  "teamid ":  "08" ,
+                        "caseid" : "08",
+                        "casenumber": "192" ,
+                        "casttitle" : "sharma’s property case" ,
+                        "cnrnumber" : "MHAU030151912016",
+                        "cisnumber" : "",
+                        "caseregistrationdate" : "23-8-2016",
+                        "casetype" : "criminal",
+                        "filedundersection" : "323,324,149,504,503",
+                        "casesummary" : "blah blah blah" ,
+                        "casedetails" : "sharma’s property case against bansals"
+                    },
+                    
+                "client" :
+                     {  
+                        "details": [
+                         {   "clientid" : "08",
+                             "clientname" : "rohan sharma",
+                            "clientemail" : "rohansharma09@gmail.com",
+                            "clientcontactnumber " : "9012345678",
+                            " clientaddress " : "delhi",
+                            " clientmobilenumber " : "9012345678"
+                                        }
+                                    ]
+                       },                        
+                       
+                "party" :
+                     {  
+                        "details": [
+                           {   " partyid" : "08",
+                               " partyname " : "sharma",
+                               "opp_partyname " : "bansal"
+                                       }
+                                 ]
+                       } ,
+               "advocate" :
+                     {  
+                        "details": [
+                                       {    
+                                 "advname": "kavit",
+                                 "advemail" : "kavitbansal11@gmail.com"
+                                            
+                                        }
+                                    ]
+                     },
+                "opp_advocate" :
+                     {  
+                        "details": [
+                          {     
+                            "opp_advid" : "08",
+                             "opp_advname" : "jatin",
+                             "opp_advemail " : "jatin@gmail.com",
+                           "opp_advcontactnumber" : "9012345678",
+                           "opp_advaddress" : "suratgrah",
+                           "opp_advmobilenumber" : "9012345678"
+                                        }
+                                    ]
+                      }
+      },
+
+  {
+            "details": {  "teamid ":  "09" ,
+                        "caseid" : "09",
+                        "casenumber": "192" ,
+                        "casttitle" : "sharma’s property case" ,
+                        "cnrnumber" : "MHAU030151912016",
+                        "cisnumber" : "",
+                        "caseregistrationdate" : "23-8-2016",
+                        "casetype" : "criminal",
+                        "filedundersection" : "323,324,149,504,503",
+                        "casesummary" : "blah blah blah" ,
+                        "casedetails" : "sharma’s property case against bansals"
+                    },
+                    
+                "client" :
+                     {  
+                        "details": [
+                         {   "clientid" : "09",
+                             "clientname" : "rohan sharma",
+                            "clientemail" : "rohansharma09@gmail.com",
+                            "clientcontactnumber " : "9012345678",
+                            " clientaddress " : "delhi",
+                            " clientmobilenumber " : "9012345678"
+                                        }
+                                    ]
+                       },                        
+                       
+                "party" :
+                     {  
+                        "details": [
+                           {   " partyid" : "09",
+                               " partyname " : "sharma",
+                               "opp_partyname " : "bansal"
+                                       }
+                                 ]
+                       } ,
+               "advocate" :
+                     {  
+                        "details": [
+                                       {    
+                                 "advname": "kavit",
+                                 "advemail" : "kavitbansal11@gmail.com"
+                                            
+                                        }
+                                    ]
+                     },
+                "opp_advocate" :
+                     {  
+                        "details": [
+                          {     
+                            "opp_advid" : "09",
+                             "opp_advname" : "jatin",
+                             "opp_advemail " : "jatin@gmail.com",
+                           "opp_advcontactnumber" : "9012345678",
+                           "opp_advaddress" : "suratgrah",
+                           "opp_advmobilenumber" : "9012345678"
+                                        }
+                                    ]
+                      }
+      },
+
+  {
+            "details": {  "teamid ":  "10" ,
+                        "caseid" : "10",
+                        "casenumber": "192" ,
+                        "casttitle" : "sharma’s property case" ,
+                        "cnrnumber" : "MHAU030151912016",
+                        "cisnumber" : "",
+                        "caseregistrationdate" : "23-8-2016",
+                        "casetype" : "criminal",
+                        "filedundersection" : "323,324,149,504,503",
+                        "casesummary" : "blah blah blah" ,
+                        "casedetails" : "sharma’s property case against bansals"
+                    },
+                    
+                "client" :
+                     {  
+                        "details": [
+                         {   "clientid" : "10",
+                             "clientname" : "rohan sharma",
+                            "clientemail" : "rohansharma09@gmail.com",
+                            "clientcontactnumber " : "9012345678",
+                            " clientaddress " : "delhi",
+                            " clientmobilenumber " : "9012345678"
+                                        }
+                                    ]
+                       },                        
+                       
+                "party" :
+                     {  
+                        "details": [
+                           {   " partyid" : "10",
+                               " partyname " : "sharma",
+                               "opp_partyname " : "bansal"
+                                       }
+                                 ]
+                       } ,
+               "advocate" :
+                     {  
+                        "details": [
+                                       {    
+                                 "advname": "kavit",
+                                 "advemail" : "kavitbansal11@gmail.com"
+                                            
+                                        }
+                                    ]
+                     },
+                "opp_advocate" :
+                     {  
+                        "details": [
+                          {     
+                            "opp_advid" : "10",
+                             "opp_advname" : "jatin",
+                             "opp_advemail " : "jatin@gmail.com",
+                           "opp_advcontactnumber" : "9012345678",
+                           "opp_advaddress" : "suratgrah",
+                           "opp_advmobilenumber" : "9012345678"
+                                        }
+                                    ]
+                      }
+      }
+
+         ]
+}     

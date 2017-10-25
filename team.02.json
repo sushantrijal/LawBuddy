@@ -1,0 +1,97 @@
+{
+    "team":  [ {       
+                  "teamid ":  "01" ,
+                  " teamname" : "caseteam1",
+                  "teamemailids":
+                  [
+                        {"teamemailid1" : "kavitbansal11@gmail.com" },
+                        {"teamemailid2": "sushant12rijal@gmail.com" },
+                        {"teamemailid3" : "anandgaur22@gmai.com" }
+                        ]
+              },
+             {       
+                  "teamid ":  "02" ,
+                  " teamname" : "caseteam2",
+                  "teamemailids":
+                  [
+                        {"teamemailid1" : "kavitbansal11@gmail.com" },
+                        {"teamemailid2": "sushant12rijal@gmail.com" },
+                        {"teamemailid3" : "anandgaur22@gmai.com" }
+                        ]
+              },
+            {       
+                  "teamid ":  "03" ,
+                  " teamname" : "caseteam3",
+                  "teamemailids":
+                  [
+                        {"teamemailid1" : "kavitbansal11@gmail.com" },
+                        {"teamemailid2": "sushant12rijal@gmail.com" },
+                        {"teamemailid3" : "anandgaur22@gmai.com" }
+                        ]
+              },
+           {       
+                  "teamid ":  "04" ,
+                  " teamname" : "caseteam4",
+                  "teamemailids":
+                  [
+                        {"teamemailid1" : "kavitbansal11@gmail.com" },
+                        {"teamemailid2": "sushant12rijal@gmail.com" },
+                        {"teamemailid3" : "anandgaur22@gmai.com" }
+                        ]
+              },
+{       
+                  "teamid ":  "05" ,
+                  " teamname" : "caseteam5",
+                  "teamemailids":
+                  [
+                        {"teamemailid1" : "kavitbansal11@gmail.com" },
+                        {"teamemailid2": "sushant12rijal@gmail.com" },
+                        {"teamemailid3" : "anandgaur22@gmai.com" }
+                        ]
+              },
+{       
+                  "teamid ":  "06" ,
+                  " teamname" : "caseteam6",
+                  "teamemailids":
+                  [
+                        {"teamemailid1" : "kavitbansal11@gmail.com" },
+                        {"teamemailid2": "sushant12rijal@gmail.com" },
+                        {"teamemailid3" : "anandgaur22@gmai.com" }
+                        ]
+              },
+{       
+                  "teamid ":  "07" ,
+                  " teamname" : "caseteam7",
+                  "teamemailids":
+                  [
+                        {"teamemailid1" : "kavitbansal11@gmail.com" },
+                        {"teamemailid2": "sushant12rijal@gmail.com" },
+                        {"teamemailid3" : "anandgaur22@gmai.com" }
+                        ]
+              },
+{       
+                  "teamid ":  "08" ,
+                  " teamname" : "caseteam8",
+                  "teamemailids":
+                  [
+                        {"teamemailid1" : "kavitbansal11@gmail.com" },
+                        {"teamemailid2": "sushant12rijal@gmail.com" },
+                        {"teamemailid3" : "anandgaur22@gmai.com" }
+                        ]
+              }
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
